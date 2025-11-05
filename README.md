@@ -20,3 +20,7 @@
 - CLI command to initialize the database (`flask init-db`)
 - RESTful endpoints with JSON responses
 - Ready for testing and development
+
+
+## License
+This project is licensed under the [MIT License](LICENSE).
