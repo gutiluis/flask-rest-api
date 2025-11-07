@@ -1,5 +1,5 @@
 # Flask REST API
-# RESTful API built with Flask and SQLite using the application factory pattern, database helpers, and CLI commands.
+# REST API built with Flask and SQLite using the application factory pattern, database helpers, and CLI commands.
 
 # How to create a virtual environment:
 - python3 -m venv venv
