@@ -27,6 +27,7 @@
 ## Technologies Used:
 
 - Python
+- Flask
 
 ##
 
