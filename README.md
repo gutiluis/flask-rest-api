@@ -38,6 +38,7 @@ flask --app flask_test_dir init-db
 
 - Python
 - Flask
+- sqlite3
 
 ---
 
