@@ -10,6 +10,7 @@ REST API built with Flask and SQLite using the application factory pattern, data
 ## How it works
 
 ```
+git clone https://github.com/gutiluis/flask-rest-api.git
 python3 -m venv venv
 source venv/bin/activate # macOS/Linux
 venv\Scripts\activate    # Windows
